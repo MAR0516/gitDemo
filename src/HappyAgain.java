@@ -4,6 +4,6 @@ public class HappyAgain {
 
     // I wrote more code
     public static void main(String[] args) {
-
+        System.out.println("Interesting");
     }
 }
